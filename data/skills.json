@@ -1,0 +1,19 @@
+{
+    "skill": [
+        {
+            "name": "Data Scraping",
+            "description": "Scraping data from the web using python's selenium",
+            "projects_completed": 5
+        },
+        {
+            "name": "Frontend Development",
+            "description": "Development of beautiful and unique user interfaces.",
+            "projects_completed": 10
+        },
+        {
+            "name": "Backend Development",
+            "description": "Development of Web API's Using python's flask framework",
+            "projects_completed": 4
+        }   
+    ]
+}

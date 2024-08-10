@@ -1,0 +1,32 @@
+{
+    "projects":[
+        {
+            "title": "MyStic Reads",
+            "imageUrl": "",
+            "project_url": "https://mystic-reads.vercel.app/",
+            "description": "A blog website for novel readers",
+            "tags": [ "react", "postgresql", "tailwindcss", "Flask" ]
+        },
+        {
+            "title": "MyStic Reads API",
+            "imageUrl": "",
+            "project_url": "https://github.com/Asuraking913/Mystic-Reads-API",
+            "description": "A flask API for Mystic Reads website for User Authentication/Token verification, fetching user data and more",
+            "tags": [ "flask", "python"]
+        }, 
+        {
+            "title": "Desktop GUI app",
+            "imageUrl": "",
+            "project_url": "https://github.com/Asuraking913/AsuraSwift2.0",
+            "description": "An Desktop application to transfer files through python web sockets",
+            "tags": [ "PysimpleGUI", "python", "Sockets"]
+        }, 
+        {
+            "title": "Chef gods",
+            "imageUrl": "",
+            "project_url": "https://restaurant-website-one-sigma.vercel.app/",
+            "description": "Responsive Frontend design for a restaurant",
+            "tags": [ "PysimpleGUI", "python", "Sockets"]
+        }
+    ]
+}
