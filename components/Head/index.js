@@ -3,9 +3,11 @@ import userInfo from "../../data/usersInfo.json"
 
 export default function DomHead({ pageName = "Home Page" }) {
 
+
+
     return (
         <Head>
-            <title>Baaymax - {pageName} </title>
+            <title>Israel Shedrack - {pageName} </title>
             {/* meta tags begins */}
             {/* Primary Meta Tags */}
             <meta name="title" content="BaayMax — Generate a unique developer portfolio with just one click" />
